@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values": [
+		"#forge:plates/kunzite",
+		"#forge:plates/uvarovite",
+		"#forge:plates/stibnite",
+		"#forge:plates/astrite",
+		"#forge:plates/thounite"
+	]
+}

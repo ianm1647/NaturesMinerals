@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "natureminerals:uvarovite_crushed",
+    "natureminerals:kunzite_crushed",
+    "natureminerals:stibnite_crushed",
+    "natureminerals:astrite_crushed",
+    "natureminerals:thounite_crushed"
+  ]
+}

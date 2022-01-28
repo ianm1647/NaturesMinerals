@@ -1,0 +1,26 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "name": "natureminerals:molten_astrite",
+      "amount": 576
+    },
+    {
+      "name": "natureminerals:molten_stibnite",
+      "amount": 576
+    },
+    {
+      "name": "tconstruct:molten_hepatizon",
+      "amount": 288
+    },
+    {
+      "name": "natureminerals:blood_lava",
+      "amount": 432
+    }
+  ],
+  "result": {
+    "fluid": "natureminerals:molten_thounite",
+    "amount": 288
+  },
+  "temperature": 2500
+}

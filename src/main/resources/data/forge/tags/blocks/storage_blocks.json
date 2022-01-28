@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values": [
+		"#forge:storage_blocks/kunzite",
+		"#forge:storage_blocks/uvarovite",
+		"#forge:storage_blocks/stibnite",
+		"#forge:storage_blocks/astrite",
+		"#forge:storage_blocks/thounite"
+	]
+}

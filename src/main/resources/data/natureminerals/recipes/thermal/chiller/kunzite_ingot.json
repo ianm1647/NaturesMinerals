@@ -1,0 +1,25 @@
+{
+  "type": "thermal:chiller",
+  "input": [
+    {
+      "fluid": "natureminerals:molten_kunzite",
+      "amount": 144
+    },
+    {
+      "item": "thermal:chiller_ingot_cast"
+    }
+  ],
+  "result": [
+    {
+      "item": "natureminerals:kunzite_ingot",
+      "count": 1
+    }
+  ],
+  "energy": 5000,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "natureminerals"
+    }
+  ]
+}

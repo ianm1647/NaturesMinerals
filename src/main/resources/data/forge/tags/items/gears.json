@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values": [
+		"#forge:gears/kunzite",
+		"#forge:gears/uvarovite",
+		"#forge:gears/stibnite",
+		"#forge:gears/astrite",
+		"#forge:gears/thounite"
+	]
+}

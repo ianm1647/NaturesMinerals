@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "natureminerals:kunzite_crushed"
+  },
+  "result": "natureminerals:kunzite_ingot",
+  "experience": 0.0,
+  "cookingtime": 200
+}

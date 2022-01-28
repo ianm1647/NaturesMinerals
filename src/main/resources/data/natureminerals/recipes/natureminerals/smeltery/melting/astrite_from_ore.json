@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:ore_melting",
+  "ingredient": {
+    "tag": "forge:ores/astrite"
+  },
+  "result": {
+    "fluid": "natureminerals:molten_astrite",
+    "amount": 72
+  },
+  "temperature": 2500,
+  "time": 100,
+  "conditions": [
+      {
+          "type": "forge:mod_loaded",
+          "modid": "tconstruct"
+      }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "natureminerals:thounite",
+  "temperature": 2750,
+  "result": {
+    "fluid": "natureminerals:molten_thounite",
+    "amount": 144
+  }
+}

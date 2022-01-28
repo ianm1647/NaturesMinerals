@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "natureminerals:thounite_dust"
+  },
+  "result": "natureminerals:thounite_ingot",
+  "experience": 0.0,
+  "cookingtime": 200
+}

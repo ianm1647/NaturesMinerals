@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "natureminerals:uvarovite_ingot"
+    }
+  ],
+  "result": {
+    "item": "natureminerals:uvarovite_nugget",
+    "count": 9
+  }
+}

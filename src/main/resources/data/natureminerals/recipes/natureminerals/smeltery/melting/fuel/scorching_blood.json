@@ -1,0 +1,15 @@
+{
+  "type": "tconstruct:melting_fuel",
+  "fluid": {
+    "name": "natureminerals:scorching_blood",
+    "amount": 50
+  },
+  "duration": 100,
+  "temperature": 3000,
+  "conditions": [
+      {
+          "type": "forge:mod_loaded",
+          "modid": "tconstruct"
+      }
+  ]
+}

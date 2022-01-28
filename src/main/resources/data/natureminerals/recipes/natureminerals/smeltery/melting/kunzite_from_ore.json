@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:ore_melting",
+  "ingredient": {
+    "tag": "forge:ores/kunzite"
+  },
+  "result": {
+    "fluid": "natureminerals:molten_kunzite",
+    "amount": 72
+  },
+  "temperature": 1500,
+  "time": 100,
+  "conditions": [
+      {
+          "type": "forge:mod_loaded",
+          "modid": "tconstruct"
+      }
+  ]
+}

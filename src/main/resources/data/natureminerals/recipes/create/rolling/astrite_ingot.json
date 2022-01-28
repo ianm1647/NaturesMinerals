@@ -1,0 +1,10 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"tag": "forge:ingots/astrite"
+	},
+	"result": {
+		"item": "natureminerals:astrite_rod",
+		"count": 2
+	}
+}

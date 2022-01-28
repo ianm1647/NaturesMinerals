@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "name": "minecraft:lava",
+      "amount": 432
+    },
+    {
+      "name": "tconstruct:blood",
+      "amount": 432
+    }
+  ],
+  "result": {
+    "fluid": "natureminerals:blood_lava",
+    "amount": 576
+  },
+  "temperature": 1000
+}

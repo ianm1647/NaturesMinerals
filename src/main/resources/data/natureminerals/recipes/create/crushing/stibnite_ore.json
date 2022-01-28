@@ -1,0 +1,32 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "forge:ores/stibnite"
+    }
+  ],
+  "results": [
+    {
+      "item": "natureminerals:stibnite_crushed"
+    },
+    {
+      "item": "natureminerals:stibnite_crushed",
+      "count": 2,
+      "chance": 0.3
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "chance": 0.125
+    }
+  ],
+  "processingTime": 350,
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:ores/stibnite",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}

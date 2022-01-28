@@ -1,0 +1,33 @@
+
+modLoader="javafml"
+loaderVersion="[36,)" 
+license="All rights reserved"
+
+[[mods]]
+modId="natureminerals" 
+version="0.9.6"
+displayName="Nature's Minerals"
+logoFile="logo.png"
+credits=""
+authors="ianm1647"
+description="A Tinkers Construct addon that adds many new metals and alloys"
+
+
+[[dependencies.natureminerals]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.natureminerals]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.natureminerals]]
+    modId="tconstruct"
+    mandatory=true
+    versionRange="[3.0.4.171,)"
+    ordering="NONE"
+    side="BOTH"

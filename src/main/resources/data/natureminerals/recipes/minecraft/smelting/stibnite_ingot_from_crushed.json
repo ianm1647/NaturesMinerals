@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "natureminerals:stibnite_crushed"
+  },
+  "result": "natureminerals:stibnite_ingot",
+  "experience": 0.0,
+  "cookingtime": 200
+}

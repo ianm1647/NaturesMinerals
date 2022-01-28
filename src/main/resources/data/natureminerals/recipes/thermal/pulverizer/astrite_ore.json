@@ -1,0 +1,17 @@
+{
+  "type": "thermal:pulverizer",
+  "ingredient": {
+    "tag": "forge:ores/astrite"
+  },
+  "result": [
+    {
+      "item": "natureminerals:astrite_dust",
+      "chance": 2.0
+    },
+    {
+      "item": "minecraft:sand",
+      "chance": 0.2
+    }
+  ],
+  "experience": 0.5
+}

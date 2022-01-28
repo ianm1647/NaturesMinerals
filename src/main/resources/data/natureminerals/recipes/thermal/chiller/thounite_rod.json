@@ -1,0 +1,25 @@
+{
+  "type": "thermal:chiller",
+  "input": [
+    {
+      "fluid": "natureminerals:molten_thounite",
+      "amount": 144
+    },
+    {
+      "item": "thermal:chiller_rod_cast"
+    }
+  ],
+  "result": [
+    {
+      "item": "natureminerals:thounite_rod",
+      "count": 2
+    }
+  ],
+  "energy": 5000,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "natureminerals"
+    }
+  ]
+}

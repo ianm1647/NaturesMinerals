@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "natureminerals:uvarovite",
+  "temperature": 1250,
+  "result": {
+    "fluid": "natureminerals:molten_uvarovite",
+    "amount": 144
+  }
+}

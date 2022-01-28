@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:storage_blocks/stibnite"
+  },
+  "result": {
+    "fluid": "natureminerals:molten_stibnite",
+    "amount": 1296
+  },
+  "temperature": 2000,
+  "time": 200,
+  "conditions": [
+      {
+          "type": "forge:mod_loaded",
+          "modid": "tconstruct"
+      }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "thermal:pulverizer",
+  "ingredient": {
+    "tag": "forge:ores/stibnite"
+  },
+  "result": [
+    {
+      "item": "natureminerals:stibnite_dust",
+      "chance": 2.0
+    },
+    {
+      "item": "minecraft:soul_sand",
+      "chance": 0.2
+    }
+  ],
+  "experience": 0.5
+}

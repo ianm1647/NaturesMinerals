@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/ingot"
+  },
+  "fluid": {
+    "name": "natureminerals:molten_uvarovite",
+    "amount": 144
+  },
+  "result": "natureminerals:uvarovite_ingot",
+  "cooling_time": 85,
+  "conditions": [
+      {
+          "type": "forge:mod_loaded",
+          "modid": "tconstruct"
+      }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "thermal:press",
+  "input": [
+    {
+      "tag": "forge:ingots/astrite",
+      "count": 4
+    },
+    {
+      "item": "thermal:press_gear_die"
+    }
+  ],
+  "result": [
+    {
+      "item": "natureminerals:astrite_gear"
+    }
+  ]
+}

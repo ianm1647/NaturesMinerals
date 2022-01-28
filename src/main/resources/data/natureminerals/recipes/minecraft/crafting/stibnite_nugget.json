@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "natureminerals:stibnite_ingot"
+    }
+  ],
+  "result": {
+    "item": "natureminerals:stibnite_nugget",
+    "count": 9
+  }
+}

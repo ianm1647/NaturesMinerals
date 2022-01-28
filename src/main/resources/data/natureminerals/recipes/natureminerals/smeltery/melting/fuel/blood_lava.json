@@ -1,0 +1,15 @@
+{
+  "type": "tconstruct:melting_fuel",
+  "fluid": {
+    "name": "natureminerals:blood_lava",
+    "amount": 50
+  },
+  "duration": 100,
+  "temperature": 1250,
+  "conditions": [
+      {
+          "type": "forge:mod_loaded",
+          "modid": "tconstruct"
+      }
+  ]
+}

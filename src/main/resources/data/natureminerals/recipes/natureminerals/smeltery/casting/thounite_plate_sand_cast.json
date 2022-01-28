@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/single_use/plate"
+  },
+  "fluid": {
+    "name": "natureminerals:molten_thounite",
+    "amount": 144
+  },
+  "result": "natureminerals:thounite_plate",
+  "cooling_time": 75,
+  "conditions": [
+      {
+          "type": "forge:mod_loaded",
+          "modid": "tconstruct"
+      }
+  ]
+}

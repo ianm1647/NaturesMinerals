@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "natureminerals:astrite",
+  "temperature": 2500,
+  "result": {
+    "fluid": "natureminerals:molten_astrite",
+    "amount": 144
+  }
+}

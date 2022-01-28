@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "natureminerals:kunzite_ingot"
+    }
+  },
+  "result": {
+    "item": "natureminerals:kunzite_block"
+  }
+}

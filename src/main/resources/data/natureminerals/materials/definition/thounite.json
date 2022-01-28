@@ -1,0 +1,23 @@
+{
+	"condition": {
+    "values": [
+      {
+        "prop": "force_integration_materials",
+        "type": "tconstruct:config"
+      },
+      {
+        "value": {
+          "tag": "forge:ingots/thounite",
+          "type": "forge:tag_empty"
+        },
+        "type": "forge:not"
+      }
+    ],
+    "type": "forge:or"
+  },
+  "craftable": false,
+  "tier": 9,
+  "sortOrder": 2,
+  "textColor": "#FBBE53",
+  "hidden": false
+}

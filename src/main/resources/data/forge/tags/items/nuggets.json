@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values": [
+		"#forge:nuggets/kunzite",
+		"#forge:nuggets/uvarovite",
+		"#forge:nuggets/stibnite",
+		"#forge:nuggets/astrite",
+		"#forge:nuggets/thounite"
+	]
+}

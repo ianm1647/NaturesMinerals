@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "natureminerals:uvarovite_crushed"
+  },
+  "result": "natureminerals:uvarovite_ingot",
+  "experience": 0.0,
+  "cookingtime": 200
+}

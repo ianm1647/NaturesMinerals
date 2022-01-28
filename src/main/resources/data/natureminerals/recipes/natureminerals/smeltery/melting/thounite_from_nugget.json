@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:nuggets/thounite"
+  },
+  "result": {
+    "fluid": "natureminerals:molten_thounite",
+    "amount": 16
+  },
+  "temperature": 2750,
+  "time": 25,
+  "conditions": [
+      {
+          "type": "forge:mod_loaded",
+          "modid": "tconstruct"
+      }
+  ]
+}

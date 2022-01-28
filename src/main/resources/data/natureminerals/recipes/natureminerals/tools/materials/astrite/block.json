@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:material",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:storage_blocks/astrite",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/astrite"
+  },
+  "value": 9,
+  "needed": 1,
+  "material": "natureminerals:astrite",
+  "leftover": {
+    "tag": "forge:ingots/astrite"
+  }
+}

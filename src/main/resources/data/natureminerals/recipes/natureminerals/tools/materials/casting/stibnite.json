@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "tag": "natureminerals:molten_stibnite",
+    "amount": 144
+  },
+  "temperature": 2000,
+  "output": "natureminerals:stibnite"
+}
